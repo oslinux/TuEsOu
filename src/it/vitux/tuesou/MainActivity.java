@@ -16,7 +16,7 @@ public class MainActivity extends Activity {
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         getMenuInflater().inflate(R.menu.activity_main, menu);
-        Toast.makeText(this, "Ciao, Mondo!", Toast.LENGTH_LONG);
+        Toast.makeText(this, "Ciao, Mondo!", Toast.LENGTH_LONG).show();
         return true; //java
     }
 }
