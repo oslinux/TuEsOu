@@ -1,6 +1,0 @@
-INDEX VERSION 1.126+/Users/vito/Documents/workspace/Git/.metadata/.plugins/org.eclipse.jdt.core
-4014993412.index
-1914863334.index
-3352401709.index
-2371679268.index
-1087986224.index
