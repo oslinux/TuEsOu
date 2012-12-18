@@ -17,6 +17,6 @@ public class MainActivity extends Activity {
     public boolean onCreateOptionsMenu(Menu menu) {
         getMenuInflater().inflate(R.menu.activity_main, menu);
         Toast.makeText(this, "Ciao, Mondo!", Toast.LENGTH_LONG).show();
-        return true; /*Silvia coiona*/
+        return true; /*E anche Angeni c'è!! :D */
     }
 }
